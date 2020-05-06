@@ -1,1 +1,0 @@
-A simple web app that displays the current weather in a specified location. Done as part of [The Odin Project's curriculum](https://www.theodinproject.com/courses/javascript/lessons/weather-app).
