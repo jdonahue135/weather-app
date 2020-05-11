@@ -23,7 +23,7 @@ class App extends React.Component {
       gif: null,
       formInput: ''
     }
-  };
+  }
 
   componentDidUpdate(prevProps, prevState) {
     if (prevState.city !== this.state.city) {
